@@ -1,0 +1,14 @@
+{
+"_id":1,
+"nome":"José Ricardo Moreira Junior",
+"data_nascimento":"1996-05-21",
+"enderecos": [{
+"logradouro":"Av Dos Italianos",
+"numero":000,
+"bairro":"Rocha Miranda",
+"cidade":"Rio de Janeiro"
+}],
+"interesses":["Series","Jogos"],
+"reservas": [1,2]
+}
+
